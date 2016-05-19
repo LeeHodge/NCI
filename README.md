@@ -1,3 +1,0 @@
-"# NCI"
-TEST
-ONE
