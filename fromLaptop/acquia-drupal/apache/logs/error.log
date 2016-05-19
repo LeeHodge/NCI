@@ -1,0 +1,167 @@
+[Thu May 12 17:03:49 2016] [notice] Apache/2.2.22 (Win32) PHP/5.2.17 configured -- resuming normal operations
+[Thu May 12 17:03:49 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Thu May 12 17:03:49 2016] [notice] Parent: Created child process 4144
+[Thu May 12 17:03:53 2016] [notice] Child 4144: Child process is running
+[Thu May 12 17:03:53 2016] [notice] Child 4144: Acquired the start mutex.
+[Thu May 12 17:03:53 2016] [notice] Child 4144: Starting 250 worker threads.
+[Thu May 12 17:03:53 2016] [notice] Child 4144: Starting thread to listen on port 8082.
+[Thu May 12 17:06:37 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Thu May 12 17:06:37 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Thu May 12 17:06:37 2016] [notice] Parent: Created child process 2576
+[Thu May 12 17:06:39 2016] [notice] Child 2576: Child process is running
+[Thu May 12 17:06:39 2016] [notice] Child 2576: Acquired the start mutex.
+[Thu May 12 17:06:39 2016] [notice] Child 2576: Starting 250 worker threads.
+[Thu May 12 17:06:39 2016] [notice] Child 2576: Starting thread to listen on port 8082.
+[Fri May 13 10:17:46 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 10:17:46 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 10:17:46 2016] [notice] Parent: Created child process 4932
+[Fri May 13 10:17:47 2016] [notice] Child 4932: Child process is running
+[Fri May 13 10:17:47 2016] [notice] Child 4932: Acquired the start mutex.
+[Fri May 13 10:17:47 2016] [notice] Child 4932: Starting 250 worker threads.
+[Fri May 13 10:17:47 2016] [notice] Child 4932: Starting thread to listen on port 8082.
+[Fri May 13 10:17:59 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 10:17:59 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 10:17:59 2016] [notice] Parent: Created child process 3576
+[Fri May 13 10:18:00 2016] [notice] Child 3576: Child process is running
+[Fri May 13 10:18:00 2016] [notice] Child 3576: Acquired the start mutex.
+[Fri May 13 10:18:00 2016] [notice] Child 3576: Starting 250 worker threads.
+[Fri May 13 10:18:00 2016] [notice] Child 3576: Starting thread to listen on port 8082.
+[Fri May 13 10:43:34 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 10:43:34 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 10:43:34 2016] [notice] Parent: Created child process 4920
+[Fri May 13 10:43:35 2016] [notice] Child 4920: Child process is running
+[Fri May 13 10:43:35 2016] [notice] Child 4920: Acquired the start mutex.
+[Fri May 13 10:43:35 2016] [notice] Child 4920: Starting 250 worker threads.
+[Fri May 13 10:43:35 2016] [notice] Child 4920: Starting thread to listen on port 8082.
+[Fri May 13 10:48:05 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 10:48:05 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 10:48:05 2016] [notice] Parent: Created child process 2244
+[Fri May 13 10:48:07 2016] [notice] Child 2244: Child process is running
+[Fri May 13 10:48:07 2016] [notice] Child 2244: Acquired the start mutex.
+[Fri May 13 10:48:07 2016] [notice] Child 2244: Starting 250 worker threads.
+[Fri May 13 10:48:07 2016] [notice] Child 2244: Starting thread to listen on port 8082.
+[Fri May 13 11:02:34 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 11:02:34 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 11:02:34 2016] [notice] Parent: Created child process 8020
+[Fri May 13 11:02:36 2016] [notice] Child 8020: Child process is running
+[Fri May 13 11:02:36 2016] [notice] Child 8020: Acquired the start mutex.
+[Fri May 13 11:02:36 2016] [notice] Child 8020: Starting 250 worker threads.
+[Fri May 13 11:02:36 2016] [notice] Child 8020: Starting thread to listen on port 8082.
+[Fri May 13 11:53:28 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 11:53:28 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 11:53:28 2016] [notice] Parent: Created child process 3892
+[Fri May 13 11:53:30 2016] [notice] Child 3892: Child process is running
+[Fri May 13 11:53:30 2016] [notice] Child 3892: Acquired the start mutex.
+[Fri May 13 11:53:30 2016] [notice] Child 3892: Starting 250 worker threads.
+[Fri May 13 11:53:30 2016] [notice] Child 3892: Starting thread to listen on port 8082.
+[Fri May 13 12:04:00 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/admin
+[Fri May 13 12:04:01 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/favicon.ico, referer: http://itcr:8082/admin
+[Fri May 13 12:06:10 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/appearance
+[Fri May 13 12:06:18 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/configure
+[Fri May 13 12:06:23 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/conf
+[Fri May 13 12:07:40 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/admin
+[Fri May 13 12:08:42 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/about-itcr, referer: http://itcr:8082/
+[Fri May 13 12:21:57 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 12:21:57 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 12:21:57 2016] [notice] Parent: Created child process 6576
+[Fri May 13 12:21:59 2016] [notice] Child 6576: Child process is running
+[Fri May 13 12:21:59 2016] [notice] Child 6576: Acquired the start mutex.
+[Fri May 13 12:21:59 2016] [notice] Child 6576: Starting 250 worker threads.
+[Fri May 13 12:21:59 2016] [notice] Child 6576: Starting thread to listen on port 8082.
+[Fri May 13 12:43:07 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/q=user
+[Fri May 13 12:58:50 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/user
+[Fri May 13 12:58:58 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/q=user
+[Fri May 13 12:59:06 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/about-itcr, referer: http://itcr:8082/
+[Fri May 13 13:03:52 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/about-itcr, referer: http://itcr:8082/
+[Fri May 13 13:03:55 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/about-itcr, referer: http://itcr:8082/
+[Fri May 13 13:10:30 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/funding-opportunities, referer: http://itcr:8082/
+[Fri May 13 13:11:19 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/about-itcr, referer: http://itcr:8082/
+[Fri May 13 13:11:48 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/user, referer: http://itcr:8082/?q=user
+[Fri May 13 13:12:00 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/admin, referer: http://itcr:8082/?q=user/1
+[Fri May 13 13:12:06 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/q=admin
+[Fri May 13 13:12:19 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/admin, referer: http://itcr:8082/?q=admin/reports
+[Fri May 13 13:19:47 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 13:19:47 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 13:19:47 2016] [notice] Parent: Created child process 7060
+[Fri May 13 13:19:48 2016] [notice] Child 7060: Child process is running
+[Fri May 13 13:19:48 2016] [notice] Child 7060: Acquired the start mutex.
+[Fri May 13 13:19:48 2016] [notice] Child 7060: Starting 250 worker threads.
+[Fri May 13 13:19:48 2016] [notice] Child 7060: Starting thread to listen on port 8082.
+[Fri May 13 13:42:38 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 13:42:38 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 13:42:38 2016] [notice] Parent: Created child process 4820
+[Fri May 13 13:42:39 2016] [notice] Child 4820: Child process is running
+[Fri May 13 13:42:39 2016] [notice] Child 4820: Acquired the start mutex.
+[Fri May 13 13:42:39 2016] [notice] Child 4820: Starting 250 worker threads.
+[Fri May 13 13:42:39 2016] [notice] Child 4820: Starting thread to listen on port 8082.
+[Fri May 13 13:44:16 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/bridgmodel/q=user
+[Fri May 13 13:44:16 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/bridgmodel/favicon.ico, referer: http://bridgmodel:8082/q=user
+[Fri May 13 13:44:20 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/bridgmodel/q=users
+[Fri May 13 13:44:38 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/bridgmodel/user, referer: http://bridgmodel:8082/?q=user
+[Fri May 13 13:45:03 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/bridgmodel/about-itcr, referer: http://bridgmodel:8082/
+[Fri May 13 13:45:55 2016] [error] [client 127.0.0.1] File does not exist: D:/acquia-drupal-sites/itcr/about-itcr, referer: http://itcr:8082/
+[Fri May 13 13:48:32 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 13:48:32 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 13:48:32 2016] [notice] Parent: Created child process 5108
+[Fri May 13 13:48:33 2016] [notice] Child 5108: Child process is running
+[Fri May 13 13:48:33 2016] [notice] Child 5108: Acquired the start mutex.
+[Fri May 13 13:48:33 2016] [notice] Child 5108: Starting 250 worker threads.
+[Fri May 13 13:48:33 2016] [notice] Child 5108: Starting thread to listen on port 8082.
+[Fri May 13 17:08:30 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Fri May 13 17:08:30 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Fri May 13 17:08:30 2016] [notice] Parent: Created child process 4432
+[Fri May 13 17:08:31 2016] [notice] Child 4432: Child process is running
+[Fri May 13 17:08:31 2016] [notice] Child 4432: Acquired the start mutex.
+[Fri May 13 17:08:31 2016] [notice] Child 4432: Starting 250 worker threads.
+[Fri May 13 17:08:31 2016] [notice] Child 4432: Starting thread to listen on port 8082.
+[Mon May 16 09:57:55 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Mon May 16 09:57:55 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Mon May 16 09:57:55 2016] [notice] Parent: Created child process 1088
+[Mon May 16 09:57:56 2016] [notice] Child 1088: Child process is running
+[Mon May 16 09:57:56 2016] [notice] Child 1088: Acquired the start mutex.
+[Mon May 16 09:57:56 2016] [notice] Child 1088: Starting 250 worker threads.
+[Mon May 16 09:57:57 2016] [notice] Child 1088: Starting thread to listen on port 8082.
+[Mon May 16 09:58:30 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Mon May 16 09:58:30 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Mon May 16 09:58:30 2016] [notice] Parent: Created child process 6132
+[Mon May 16 09:58:31 2016] [notice] Child 6132: Child process is running
+[Mon May 16 09:58:31 2016] [notice] Child 6132: Acquired the start mutex.
+[Mon May 16 09:58:31 2016] [notice] Child 6132: Starting 250 worker threads.
+[Mon May 16 09:58:31 2016] [notice] Child 6132: Starting thread to listen on port 8082.
+[Mon May 16 16:44:19 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Mon May 16 16:44:19 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Mon May 16 16:44:19 2016] [notice] Parent: Created child process 3092
+[Mon May 16 16:44:21 2016] [notice] Child 3092: Child process is running
+[Mon May 16 16:44:21 2016] [notice] Child 3092: Acquired the start mutex.
+[Mon May 16 16:44:21 2016] [notice] Child 3092: Starting 250 worker threads.
+[Mon May 16 16:44:21 2016] [notice] Child 3092: Starting thread to listen on port 8082.
+[Mon May 16 17:11:09 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Mon May 16 17:11:09 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Mon May 16 17:11:09 2016] [notice] Parent: Created child process 4160
+[Mon May 16 17:11:14 2016] [notice] Child 4160: Child process is running
+[Mon May 16 17:11:14 2016] [notice] Child 4160: Acquired the start mutex.
+[Mon May 16 17:11:14 2016] [notice] Child 4160: Starting 250 worker threads.
+[Mon May 16 17:11:14 2016] [notice] Child 4160: Starting thread to listen on port 8082.
+[Tue May 17 09:59:11 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Tue May 17 09:59:11 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Tue May 17 09:59:11 2016] [notice] Parent: Created child process 5128
+[Tue May 17 09:59:18 2016] [notice] Child 5128: Child process is running
+[Tue May 17 09:59:18 2016] [notice] Child 5128: Acquired the start mutex.
+[Tue May 17 09:59:18 2016] [notice] Child 5128: Starting 250 worker threads.
+[Tue May 17 09:59:18 2016] [notice] Child 5128: Starting thread to listen on port 8082.
+[Tue May 17 09:59:18 2016] [warn] (OS 64)The specified network name is no longer available.  : winnt_accept: Asynchronous AcceptEx failed.
+[Tue May 17 10:52:16 2016] [notice] Parent: child process exited with status 1073807364 -- Restarting.
+[Tue May 17 12:24:33 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Tue May 17 12:24:33 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Tue May 17 12:24:33 2016] [notice] Parent: Created child process 4720
+[Tue May 17 12:24:35 2016] [notice] Child 4720: Child process is running
+[Tue May 17 12:24:35 2016] [notice] Child 4720: Acquired the start mutex.
+[Tue May 17 12:24:35 2016] [notice] Child 4720: Starting 250 worker threads.
+[Tue May 17 12:24:35 2016] [notice] Child 4720: Starting thread to listen on port 8082.
+[Wed May 18 11:06:07 2016] [notice] Apache/2.2.22 (Win32) PHP/5.3.18 configured -- resuming normal operations
+[Wed May 18 11:06:07 2016] [notice] Server built: Jan 28 2012 11:16:39
+[Wed May 18 11:06:07 2016] [notice] Parent: Created child process 3080
+[Wed May 18 11:06:08 2016] [notice] Child 3080: Child process is running
+[Wed May 18 11:06:08 2016] [notice] Child 3080: Acquired the start mutex.
+[Wed May 18 11:06:08 2016] [notice] Child 3080: Starting 250 worker threads.
+[Wed May 18 11:06:08 2016] [notice] Child 3080: Starting thread to listen on port 8082.

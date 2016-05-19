@@ -1,0 +1,292 @@
+160512 17:03:48 [Note] Plugin 'FEDERATED' is disabled.
+160512 17:03:48  InnoDB: Initializing buffer pool, size = 8.0M
+160512 17:03:48  InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+160512 17:03:48  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+160512 17:03:48  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+160512 17:03:49  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+160512 17:03:49  InnoDB: Started; log sequence number 0 0
+160512 17:03:50 [Note] Event Scheduler: Loaded 0 events
+160512 17:03:50 [Note] mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160512 17:06:02 [Note] mysqld.exe: Normal shutdown
+
+160512 17:06:02 [Note] Event Scheduler: Purging the queue. 0 events
+160512 17:06:02  InnoDB: Starting shutdown...
+160512 17:06:05  InnoDB: Shutdown completed; log sequence number 0 5045408
+160512 17:06:05 [Note] mysqld.exe: Shutdown complete
+
+160512 17:06:37 [Note] Plugin 'FEDERATED' is disabled.
+160512 17:06:37  InnoDB: Initializing buffer pool, size = 8.0M
+160512 17:06:37  InnoDB: Completed initialization of buffer pool
+160512 17:06:39  InnoDB: Started; log sequence number 0 5045408
+160512 17:06:39 [Note] Event Scheduler: Loaded 0 events
+160512 17:06:39 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160512 17:22:25 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160512 17:22:25 [Note] Event Scheduler: Purging the queue. 0 events
+160512 17:22:25  InnoDB: Starting shutdown...
+160512 17:22:29  InnoDB: Shutdown completed; log sequence number 0 5964140
+160512 17:22:29 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160512 17:22:35 [Note] Plugin 'FEDERATED' is disabled.
+160512 17:22:35  InnoDB: Initializing buffer pool, size = 8.0M
+160512 17:22:35  InnoDB: Completed initialization of buffer pool
+160512 17:22:35  InnoDB: Started; log sequence number 0 5964140
+160512 17:22:35 [Note] Event Scheduler: Loaded 0 events
+160512 17:22:35 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160512 18:15:53 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160512 18:15:53 [Note] Event Scheduler: Purging the queue. 0 events
+160512 18:15:53  InnoDB: Starting shutdown...
+160512 18:15:56  InnoDB: Shutdown completed; log sequence number 0 5964140
+160512 18:15:56 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160513 10:10:41 [Note] Plugin 'FEDERATED' is disabled.
+160513 10:10:41  InnoDB: Initializing buffer pool, size = 8.0M
+160513 10:10:41  InnoDB: Completed initialization of buffer pool
+160513 10:10:42  InnoDB: Started; log sequence number 0 5964140
+160513 10:10:42 [Note] Event Scheduler: Loaded 0 events
+160513 10:10:42 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160513 10:10:54 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160513 10:10:54 [Note] Event Scheduler: Purging the queue. 0 events
+160513 10:10:54  InnoDB: Starting shutdown...
+160513 10:10:57  InnoDB: Shutdown completed; log sequence number 0 5964140
+160513 10:10:57 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160513 10:17:43 [Note] Plugin 'FEDERATED' is disabled.
+160513 10:17:43  InnoDB: Initializing buffer pool, size = 8.0M
+160513 10:17:43  InnoDB: Completed initialization of buffer pool
+160513 10:17:44  InnoDB: Started; log sequence number 0 5964140
+160513 10:17:44 [Note] Event Scheduler: Loaded 0 events
+160513 10:17:44 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160513 10:17:51 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160513 10:17:51 [Note] Event Scheduler: Purging the queue. 0 events
+160513 10:17:51  InnoDB: Starting shutdown...
+160513 10:17:54  InnoDB: Shutdown completed; log sequence number 0 5964140
+160513 10:17:54 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160513 10:18:00 [Note] Plugin 'FEDERATED' is disabled.
+160513 10:18:00  InnoDB: Initializing buffer pool, size = 8.0M
+160513 10:18:00  InnoDB: Completed initialization of buffer pool
+160513 10:18:01  InnoDB: Started; log sequence number 0 5964140
+160513 10:18:01 [Note] Event Scheduler: Loaded 0 events
+160513 10:18:01 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160513 10:31:00 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160513 10:31:00 [Note] Event Scheduler: Purging the queue. 0 events
+160513 10:31:00  InnoDB: Starting shutdown...
+160513 10:31:03  InnoDB: Shutdown completed; log sequence number 0 6043683
+160513 10:31:03 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160513 10:43:33 [Note] Plugin 'FEDERATED' is disabled.
+160513 10:43:33  InnoDB: Initializing buffer pool, size = 8.0M
+160513 10:43:34  InnoDB: Completed initialization of buffer pool
+160513 10:43:36  InnoDB: Started; log sequence number 0 6043683
+160513 10:43:37 [Note] Event Scheduler: Loaded 0 events
+160513 10:43:37 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160513 11:02:24 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160513 11:02:24 [Note] Event Scheduler: Purging the queue. 0 events
+160513 11:02:26 [Warning] D:\acquia-drupal\mysql\bin\mysqld.exe: Forcing close of thread 92  user: 'root'
+
+160513 11:02:26 [Warning] D:\acquia-drupal\mysql\bin\mysqld.exe: Forcing close of thread 91  user: 'root'
+
+160513 11:02:26  InnoDB: Starting shutdown...
+160513 11:02:32  InnoDB: Shutdown completed; log sequence number 0 19379011
+160513 11:02:32 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160513 11:02:36 [Note] Plugin 'FEDERATED' is disabled.
+160513 11:02:42  InnoDB: Initializing buffer pool, size = 8.0M
+160513 11:02:42  InnoDB: Completed initialization of buffer pool
+160513 11:02:42  InnoDB: Started; log sequence number 0 19379011
+160513 11:02:44 [Note] Event Scheduler: Loaded 0 events
+160513 11:02:44 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160513 11:53:26 [Note] Plugin 'FEDERATED' is disabled.
+160513 11:53:26  InnoDB: Initializing buffer pool, size = 8.0M
+160513 11:53:26  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160513 11:53:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160513 11:53:27  InnoDB: Started; log sequence number 0 29906874
+160513 11:53:28 [Note] Event Scheduler: Loaded 0 events
+160513 11:53:28 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160513 13:19:40 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160513 13:19:40 [Note] Event Scheduler: Purging the queue. 0 events
+160513 13:19:42 [Warning] D:\acquia-drupal\mysql\bin\mysqld.exe: Forcing close of thread 194  user: 'root'
+
+160513 13:19:42 [Warning] D:\acquia-drupal\mysql\bin\mysqld.exe: Forcing close of thread 193  user: 'root'
+
+160513 13:19:42  InnoDB: Starting shutdown...
+160513 13:19:44  InnoDB: Shutdown completed; log sequence number 0 66977265
+160513 13:19:44 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160513 13:19:47 [Note] Plugin 'FEDERATED' is disabled.
+160513 13:19:47  InnoDB: Initializing buffer pool, size = 8.0M
+160513 13:19:47  InnoDB: Completed initialization of buffer pool
+160513 13:19:48  InnoDB: Started; log sequence number 0 66977265
+160513 13:19:49 [Note] Event Scheduler: Loaded 0 events
+160513 13:19:49 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160513 13:48:24 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160513 13:48:24 [Note] Event Scheduler: Purging the queue. 0 events
+160513 13:48:24  InnoDB: Starting shutdown...
+160513 13:48:29  InnoDB: Shutdown completed; log sequence number 0 80437556
+160513 13:48:29 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160513 13:48:32 [Note] Plugin 'FEDERATED' is disabled.
+160513 13:48:33  InnoDB: Initializing buffer pool, size = 8.0M
+160513 13:48:33  InnoDB: Completed initialization of buffer pool
+160513 13:48:34  InnoDB: Started; log sequence number 0 80437556
+160513 13:48:34 [Note] Event Scheduler: Loaded 0 events
+160513 13:48:34 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160513 17:08:27 [Note] Plugin 'FEDERATED' is disabled.
+160513 17:08:27  InnoDB: Initializing buffer pool, size = 8.0M
+160513 17:08:27  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160513 17:08:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160513 17:08:29  InnoDB: Started; log sequence number 0 83624271
+160513 17:08:30 [Note] Event Scheduler: Loaded 0 events
+160513 17:08:30 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160513 18:48:58 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160513 18:48:58 [Note] Event Scheduler: Purging the queue. 0 events
+160513 18:48:58  InnoDB: Starting shutdown...
+160513 18:49:00  InnoDB: Shutdown completed; log sequence number 0 95100623
+160513 18:49:00 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160516  9:57:54 [Note] Plugin 'FEDERATED' is disabled.
+160516  9:57:54  InnoDB: Initializing buffer pool, size = 8.0M
+160516  9:57:54  InnoDB: Completed initialization of buffer pool
+160516  9:57:55  InnoDB: Started; log sequence number 0 95100623
+160516  9:57:55 [Note] Event Scheduler: Loaded 0 events
+160516  9:57:55 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160516  9:58:20 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160516  9:58:20 [Note] Event Scheduler: Purging the queue. 0 events
+160516  9:58:20  InnoDB: Starting shutdown...
+160516  9:58:29  InnoDB: Shutdown completed; log sequence number 0 95100662
+160516  9:58:29 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160516  9:58:30 [Note] Plugin 'FEDERATED' is disabled.
+160516  9:58:30  InnoDB: Initializing buffer pool, size = 8.0M
+160516  9:58:30  InnoDB: Completed initialization of buffer pool
+160516  9:58:30  InnoDB: Started; log sequence number 0 95100662
+160516  9:58:30 [Note] Event Scheduler: Loaded 0 events
+160516  9:58:30 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160516 16:40:14 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160516 16:40:14 [Note] Event Scheduler: Purging the queue. 0 events
+160516 16:40:14  InnoDB: Starting shutdown...
+160516 16:40:17  InnoDB: Shutdown completed; log sequence number 0 102377694
+160516 16:40:17 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160516 16:44:20 [Note] Plugin 'FEDERATED' is disabled.
+160516 16:44:20  InnoDB: Initializing buffer pool, size = 8.0M
+160516 16:44:20  InnoDB: Completed initialization of buffer pool
+160516 16:44:21  InnoDB: Started; log sequence number 0 102377694
+160516 16:44:21 [Note] Event Scheduler: Loaded 0 events
+160516 16:44:21 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160516 16:49:44 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160516 16:49:44 [Note] Event Scheduler: Purging the queue. 0 events
+160516 16:49:44  InnoDB: Starting shutdown...
+160516 16:49:46  InnoDB: Shutdown completed; log sequence number 0 102377733
+160516 16:49:46 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160516 17:11:08 [Note] Plugin 'FEDERATED' is disabled.
+160516 17:11:08  InnoDB: Initializing buffer pool, size = 8.0M
+160516 17:11:08  InnoDB: Completed initialization of buffer pool
+160516 17:11:09  InnoDB: Started; log sequence number 0 102377733
+160516 17:11:14 [Note] Event Scheduler: Loaded 0 events
+160516 17:11:14 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160516 17:52:11 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160516 17:52:11 [Note] Event Scheduler: Purging the queue. 0 events
+160516 17:52:13 [Warning] D:\acquia-drupal\mysql\bin\mysqld.exe: Forcing close of thread 3  user: 'root'
+
+160516 17:52:13 [Warning] D:\acquia-drupal\mysql\bin\mysqld.exe: Forcing close of thread 2  user: 'root'
+
+160516 17:52:13  InnoDB: Starting shutdown...
+160516 17:52:14  InnoDB: Shutdown completed; log sequence number 0 102377743
+160516 17:52:14 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160517  9:59:10 [Note] Plugin 'FEDERATED' is disabled.
+160517  9:59:11  InnoDB: Initializing buffer pool, size = 8.0M
+160517  9:59:11  InnoDB: Completed initialization of buffer pool
+160517  9:59:11  InnoDB: Started; log sequence number 0 102377743
+160517  9:59:12 [Note] Event Scheduler: Loaded 0 events
+160517  9:59:12 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160517 12:24:33 [Note] Plugin 'FEDERATED' is disabled.
+160517 12:24:33  InnoDB: Initializing buffer pool, size = 8.0M
+160517 12:24:33  InnoDB: Completed initialization of buffer pool
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+160517 12:24:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160517 12:24:34  InnoDB: Started; log sequence number 0 110752484
+160517 12:24:34 [Note] Event Scheduler: Loaded 0 events
+160517 12:24:34 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160517 19:12:53 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160517 19:12:53 [Note] Event Scheduler: Purging the queue. 0 events
+160517 19:12:53  InnoDB: Starting shutdown...
+160517 19:12:57  InnoDB: Shutdown completed; log sequence number 0 110752504
+160517 19:12:57 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+
+160518 11:06:05 [Note] Plugin 'FEDERATED' is disabled.
+160518 11:06:06  InnoDB: Initializing buffer pool, size = 8.0M
+160518 11:06:06  InnoDB: Completed initialization of buffer pool
+160518 11:06:06  InnoDB: Started; log sequence number 0 110752504
+160518 11:06:06 [Note] Event Scheduler: Loaded 0 events
+160518 11:06:06 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.66-community'  socket: ''  port: 33066  MySQL Community Server (GPL)
+160518 17:03:02 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Normal shutdown
+
+160518 17:03:02 [Note] Event Scheduler: Purging the queue. 0 events
+160518 17:03:02  InnoDB: Starting shutdown...
+160518 17:03:07  InnoDB: Shutdown completed; log sequence number 0 118681616
+160518 17:03:07 [Note] D:\acquia-drupal\mysql\bin\mysqld.exe: Shutdown complete
+

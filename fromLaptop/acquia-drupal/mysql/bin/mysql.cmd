@@ -1,0 +1,1 @@
+@"D:\acquia-drupal\mysql\bin\mysql.exe" --defaults-file="D:\acquia-drupal\mysql\my.cnf" %*
