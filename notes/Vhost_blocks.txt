@@ -1,0 +1,50 @@
+
+<VirtualHost *:80>
+    ServerName nci-itcr.local
+    ServerAlias www.nci-itcr.local
+    DocumentRoot d:/wamp/www/sites"    
+    ErrorLog "d:/wamp/logs/nci-itcr_error_log"
+    CustomLog "d:/wamp/logs/nci-itcr_access_log" common
+    <Directory “d:/wamp/www/sites/nci-itcr">
+        Options None
+        Options +Indexes +FollowSymLinks +MultiViews
+        AllowOverride all
+        Order allow,deny
+        Allow from all
+        Require all granted
+
+        RewriteEngine on
+        RewriteBase /
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
+    </Directory>
+</VirtualHost>
+
+<VirtualHost *:443>
+    ServerName nci-itcr.local
+    ServerAlias www.nci-itcr.local
+    DocumentRoot "d:/wamp/www/sites"
+    
+    # Using Self Signed Certificate
+    SSLEngine on
+    SSLCertificateFile c:/mycerts/server.crt
+    SSLCertificateKeyFile c:/mycerts/server.key
+
+    ErrorLog " d:/wamp/logs/nci-itcr_error_log"
+    CustomLog "d:/wamp/logs/nci-itcr_access_log" common
+    <Directory "d:/wamp/www/sites/nci-itcr">
+        Options None
+        Options +Indexes +FollowSymLinks +MultiViews
+        AllowOverride all
+        Order allow,deny
+        Allow from all
+        Require all granted
+
+        RewriteEngine on
+        RewriteBase /
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
+    </Directory>
+</VirtualHost>

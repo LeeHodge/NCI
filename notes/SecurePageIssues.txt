@@ -1,0 +1,3 @@
+
+Disabled securelogin contributed module - too many redirects goes away 
+

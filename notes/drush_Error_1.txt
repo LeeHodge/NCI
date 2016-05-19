@@ -1,0 +1,19 @@
+
+
+D:\acquia-drupal-sites\itcr\sites\itcr>drush en tfa_basic, tfa
+tfa is already enabled.                                                     [ok]
+
+The following extensions will be enabled: tfa_basic
+Do you really want to continue? (y/n): y
+file_put_contents(temporary://fil5D1D.tmp): failed to open stream:     [warning]
+
+"DrupalTemporaryStreamWrapper::stream_open" call failed file.inc:1936
+tfa_basic was enabled successfully.                                         [ok]
+
+The file could not be created.                                           [error]
+
+GMap is unable to save the marker bundle. Please check                   [error]
+
+gmap_markers.js permissions!
+
+D:\acquia-drupal-sites\itcr\sites\itcr>
